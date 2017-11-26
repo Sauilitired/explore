@@ -5,7 +5,7 @@ display_name: Java
 logo: java.png
 released: May 23, 1995
 short_description: Java is an object-oriented programming language used mainly for
-  desktop and mobile applications.
+  server and Android applications.
 topic: java
 url: https://www.java.com/en/
 wikipedia_url: https://en.wikipedia.org/wiki/Java_(software_platform)
